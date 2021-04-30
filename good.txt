@@ -4,5 +4,6 @@ asidiiiiii
 asdasda
 hhj666
 777777
+<<<<<<< HEAD
 88888---hot-fix0
-master
+88888---hot-fix
